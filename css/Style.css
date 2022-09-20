@@ -117,7 +117,7 @@ body {
   .Font-Product{
    position: absolute;
    left: 42%;
-   top: 84%;
+   top: 86%;
    font-size: 15px; 
    font-family: 'Inter', sans-seri;
    text-align: center;
@@ -135,7 +135,7 @@ body {
     font-family: arial;
     position: absolute;
     left: 15%;
-    top: 90%;
+    top: 92%;
     font-family: 'Inter', sans-seri;
     font-size: 15px; 
     font-style: bold;
@@ -152,7 +152,7 @@ body {
     font-family: arial;
     position: absolute;
     left: 40%;
-    top: 90%;
+    top: 92%;
     font-family: 'Inter', sans-seri;
     font-size: 15px; 
     font-style: bold;
@@ -172,11 +172,10 @@ body {
     font-family: arial;
     position: absolute;
     left: 65%;
-    top: 90%;
+    top: 92%;
     font-family: 'Inter', sans-seri;
-    font-size: 14px; 
-    font-style: bold;
-
+    font-size: 13.5px; 
+    
     
   }
 
@@ -390,7 +389,7 @@ input[type=submit]:hover {
   padding: 20px;
   position: absolute;
   left: 15%;
-  top: 222%;
+  top: 224%;
   width: 71%;
   font-family:  font-family: 'Inter', sans-seri;
 }
@@ -467,7 +466,7 @@ left: 60%;
 
 .Catboxwomen{
   margin-left: 50%;
-  margin-top: -28.3%;
+  margin-top: -25.8%;
 
 }
 
@@ -971,8 +970,11 @@ form.Searchbar input[type=text] {
     .logofootwear{
         font-size:20px;
         padding-top: 30px;
-        padding-left: 10px;
-        margin-top: 1%;
+        padding-left: 15px;
+        margin-top: -9%;
+        margin-left: 5%;
+        
+
         
 
     }
